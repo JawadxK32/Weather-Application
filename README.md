@@ -3,4 +3,4 @@ Fully functional responsive Weather application that displays a 5-day forcast an
 
 NOTE: Chrome may block some of the scripts, if so, unblock them manually on the top right icon beside the location icon.
 
-Live link: https://jawadxk32.github.io/Weather-Application/
+Live link: http://www.scs.ryerson.ca/~jkhudada/github/weatherapp/
